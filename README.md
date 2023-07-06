@@ -36,10 +36,10 @@ All Registry files have only set High Priority for the game. I promise not to do
 # Tutorial video
 
 - Run scrips
-https://github.com/ngnducnhat/High-Priority/assets/69428695/7063839b-0343-4d67-855f-2a20298f7b89
+https://github.com/ngnducnhat/High-Priority/assets/69428695/7063839b-0343-4d67-855f-2a20298f7b89.mp4
 
 - Reset
-https://github.com/ngnducnhat/High-Priority/assets/69428695/3fcad577-7bd2-4c2b-9621-f141659057b2
+https://github.com/ngnducnhat/High-Priority/assets/69428695/3fcad577-7bd2-4c2b-9621-f141659057b2.mp4
 
 # Support and contact
 

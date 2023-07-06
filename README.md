@@ -36,9 +36,11 @@ All Registry files have only set High Priority for the game. I promise not to do
 # Tutorial video
 
 - Run scrips
+  
 https://github-production-user-asset-6210df.s3.amazonaws.com/69428695/251523749-364d4cd9-51bf-43ff-b1a8-bf3b9cbfcfbe.mp4
 
 - Reset
+
 https://github-production-user-asset-6210df.s3.amazonaws.com/69428695/251523776-f8ea438b-fadf-4db9-9fdf-cbc5c15b6a9b.mp4
 
 # Support and contact

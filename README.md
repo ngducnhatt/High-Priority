@@ -25,7 +25,7 @@ All Registry files have only set High Priority for the game. I promise not to do
 
 # Setup
 
-1. Download file by game you want in [here]()
+1. Download file by game you want in [here](https://github.com/ngnducnhat/High-Priority/releases/tag/files)
 
 2. Extract file
 
